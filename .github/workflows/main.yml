@@ -24,7 +24,7 @@ jobs:
         uses: jaywcjlove/markdown-to-html-cli@main
         with:
           source: ./README.md
-          output: index.html
+            output: index.html
           style: 'body { margin: 0; }'
           github-corners: https://github.com/vsouza/awesome-ios
           title: "Awesome iOS"
